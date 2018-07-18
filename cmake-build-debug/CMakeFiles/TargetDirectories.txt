@@ -1,0 +1,3 @@
+/home/abdul/github/serial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/abdul/github/serial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/abdul/github/serial/cmake-build-debug/CMakeFiles/serial1.dir

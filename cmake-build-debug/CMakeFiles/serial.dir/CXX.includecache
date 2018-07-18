@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdul/github/serial/include/serial/impl/unix.h
+serial/serial.h
+/home/abdul/github/serial/include/serial/impl/serial/serial.h
+pthread.h
+-
+
+/home/abdul/github/serial/include/serial/serial.h
+limits
+-
+vector
+-
+string
+-
+cstring
+-
+sstream
+-
+exception
+-
+stdexcept
+-
+v8stdint.h
+-
+
+/home/abdul/github/serial/serial.cc
+algorithm
+-
+alloca.h
+-
+include/serial/serial.h
+/home/abdul/github/serial/include/serial/serial.h
+serial/impl/win.h
+/home/abdul/github/serial/serial/impl/win.h
+include/serial/impl/unix.h
+/home/abdul/github/serial/include/serial/impl/unix.h
+
